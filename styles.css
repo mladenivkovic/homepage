@@ -91,6 +91,15 @@ div.foot {
 }
 
 
+#gallery_contents {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+
 
 
 
